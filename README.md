@@ -19,4 +19,4 @@ Front-End Developer. Junior Pyhton Developer. Aviation and coffee lover :heart:
 <div><a href="https://instagram.com/azzy.lv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href = "mailto:annabeatriz201486@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   <a href="https://www.linkedin.com/in/linkedin.com/in/anna-beatriz-silva-7b0246251" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   </div>
 
   
-![Snake animation](https://github.com/AzuraLV/AzuraLV/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
