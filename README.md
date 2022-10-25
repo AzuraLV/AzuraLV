@@ -23,5 +23,4 @@ Front-End Developer. Junior Pyhton Developer. Aviation and coffee lover :heart:
 
 ## My contributions :smile:
 
-<br/>
 ![snake gif](https://github.com/AzuraLV/AzuraLV/blob/output/github-contribution-grid-snake.svg)
