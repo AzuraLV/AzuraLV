@@ -3,10 +3,6 @@ My name is Anna and my nickname is "Azzy"!
 
 Front-End Developer. Junior Pyhton Developer. Aviation and coffee lover :heart:
 
-<br/>
-
-- I'm learning at the moment ReactNeative, ReactJS
-<br/><br/>
 
 <div><a href="https://github.com/AzuraLV"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzuraLV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
 
