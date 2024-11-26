@@ -16,13 +16,3 @@ Front-End Developer. Junior Pyhton Developer. Aviation and coffee lover :heart:
 <div><a href="https://instagram.com/azzy.lv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href = "mailto:annabeatriz201486@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   <a href="https://www.linkedin.com/in/linkedin.com/in/anna-beatriz-silva-7b0246251" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   </div>
 
 <br/>
-
-## My contributions :smile:
-
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ github.AzuraLV }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
