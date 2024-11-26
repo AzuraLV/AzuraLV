@@ -19,4 +19,24 @@ Front-End Developer. Junior Pyhton Developer. Aviation and coffee lover :heart:
 
 ## My contributions :smile:
 
-![snake gif](https://github.com/AzuraLV/AzuraLV/blob/output/github-contribution-grid-snake.svg)
+- name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.AzuraLV }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+
+
+
+
+
+uses: Platane/snk@v3
+with:
+  github_user_name: ${{ github.AzuraLV }}
+
+outputs:
+  dist/github-snake.svg
+  dist/github-snake-dark.svg?palette=github-dark
+  dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
